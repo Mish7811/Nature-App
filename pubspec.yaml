@@ -1,0 +1,37 @@
+name: nature_videos_app
+description: A Flutter app to display and save nature videos from Pexels.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.4
+  video_player: ^2.5.0
+  path_provider: ^2.0.9
+  permission_handler: ^10.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  # Add other dev dependencies if needed
+
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    # Add any assets like images or fonts if needed
+    # - assets/images/
+    # - assets/fonts/
+
+  # Add font configuration if using custom fonts
+  # fonts:
+  #   - family: MyFont
+  #     fonts:
+  #       - asset: assets/fonts/MyFont-Regular.ttf
+  #       - asset: assets/fonts/MyFont-Bold.ttf
+  #         weight: 700
