@@ -1,0 +1,1 @@
+ G:\\PROGRAMMING\\Flutter\\Projects\\nature_videos_app\\.dart_tool\\flutter_build\\3e90bd9e2bb4bafd853efbd1237d7bfc\\native_assets.yaml: 
